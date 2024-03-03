@@ -1,7 +1,5 @@
 # ReactJS to PWA Conversion
 
-This repository serves as a guide and resource for converting a ReactJS application into a Progressive Web App (PWA). Progressive Web Apps combine the best features of web and mobile applications, providing users with a fast, reliable, and engaging experience, both online and offline. By following the steps outlined in this guide, you'll transform your ReactJS app into a PWA, enabling features such as offline access, push notifications, and installation on users' devices. Whether you're building a new app or upgrading an existing one, this repository provides comprehensive instructions, code samples, and best practices to help you harness the power of Progressive Web Apps.
-
 ### Getting Started
 
 To get started with converting your ReactJS app into a PWA, follow these steps:
